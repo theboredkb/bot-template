@@ -7,7 +7,7 @@ import (
 	"os/signal"
 
 	"github.com/joho/godotenv"
-	"github.com/theboredkb/status-bot/internal/bot"
+	"github.com/theboredkb/bot-template/internal/bot"
 )
 
 func init() {

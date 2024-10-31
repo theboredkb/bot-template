@@ -1,4 +1,4 @@
-module github.com/theboredkb/status-bot
+module github.com/theboredkb/bot-template
 
 go 1.23.2
 

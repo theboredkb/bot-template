@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/theboredkb/status-bot/internal/commands"
+	"github.com/theboredkb/bot-template/internal/commands"
 )
 
 type Bot struct {
